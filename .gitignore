@@ -1,0 +1,8 @@
+*.pyc
+*~
+*.swp
+*.db
+*.sqlite3
+.idea
+.coverage
+*.egg-info
