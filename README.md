@@ -9,14 +9,14 @@ pesquisas, desenvolver aplicativos, visualizações de dados e muito mais.
 ### Clone o repositório:
 
 ```
-git clone https://github.com/olhoneles/politicos.git
+git clone https://github.com/marcelometal/politicos-api.git
 ```
 
 ### Crie um [*virtualenv*][virtualenv]:
 
 ```
 cd politicos
-mkvirtualenv politicos
+mkvirtualenv politicos-api
 ```
 
 ### Instale as dependências (python):
